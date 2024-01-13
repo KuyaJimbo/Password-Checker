@@ -39,4 +39,4 @@ Ensures that the main function is executed only if the script is run directly, n
 ## Requests Library Usage:
 This program requires the *Requests* library to be installed. To install *Requests*, run the following command in the terminal:
 
-pip install requests
+`pip install requests`
